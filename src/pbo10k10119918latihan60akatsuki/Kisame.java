@@ -26,6 +26,6 @@ public class Kisame extends Akatsuki {
     public void tampilKeterangan() {
         System.out.println("Memegang pedang samehada dengan cara membunuh \n"
                 + "pemilik pedang Fubuki yang merupakan gurunya untuk mengambil \n"
-                + " pedangnya");
+                + "pedangnya");
     }
 }

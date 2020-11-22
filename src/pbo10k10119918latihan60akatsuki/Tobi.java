@@ -24,8 +24,8 @@ public class Tobi extends Akatsuki {
     
     @Override
     public void tampilKeterangan() {
-        System.out.println("Dia adalah Obito Uchiha yang menyamar sebagai Tobi "
-                + "sekaligus menggunakan nama Madara Uchiha sampai rencana "
+        System.out.println("Dia adalah Obito Uchiha yang menyamar sebagai Tobi \n"
+                + "sekaligus menggunakan nama Madara Uchiha sampai rencana \n"
                 + "mata bulan tercapai");
     }
 }

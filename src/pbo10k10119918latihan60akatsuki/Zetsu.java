@@ -24,8 +24,8 @@ public class Zetsu extends Akatsuki {
     
     @Override
     public void tampilKeterangan() {
-        System.out.println("Merupakan otak dari akatsuki supaya kebangkitan "
-                + "ibunya (Kaguya Ootsutsuki) dengan mengkamuflasekannya "
+        System.out.println("Merupakan otak dari akatsuki supaya kebangkitan \n"
+                + "ibunya (Kaguya Ootsutsuki) dengan mengkamuflasekannya \n"
                 + "dengan rencana mata bulan (Mugen Tsukoyomi)");
     }
 }
